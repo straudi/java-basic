@@ -4,22 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb356ce9-6452-40ad-9080-c641faf21288" name="Changes" comment="패키지">
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/BankAccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/Speaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/SpeakerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/a/AccessData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/a/AccessInnerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/a/PublicClassInnerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/b/AccessOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/b/PublicClassOuterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/CounterMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/MaxCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/access/ex/ShoppingCartMain.java" afterDir="false" />
+    <list default="true" id="cb356ce9-6452-40ad-9080-c641faf21288" name="Changes" comment="접근 제어자">
+      <change afterPath="$PROJECT_DIR$/src/memory/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/memory/JavaMemoryMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/Data3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static1/DataCountMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoDataMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/DecoUtil2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/static2/ex/MathArrayUtilsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,20 +70,20 @@
       <recent name="F:\공부\JAVA\study\java-basic\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="static2" />
+      <recent name="static1" />
+      <recent name="memory" />
       <recent name="construct" />
       <recent name="oop1" />
-      <recent name="ref.ex" />
-      <recent name="ref" />
-      <recent name="class1.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShoppingCartMain">
-    <configuration name="AccessInnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.a.AccessInnerMain" />
+  <component name="RunManager" selected="Application.MathArrayUtilsMain">
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.ex.CarMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.a.*" />
+          <option name="PATTERN" value="static2.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BankAccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.BankAccountMain" />
+    <configuration name="DecoDataMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoDataMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.CounterMain" />
+    <configuration name="DecoMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingCartMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.ex.ShoppingCartMain" />
+    <configuration name="DecoMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.DecoMain2" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.ex.*" />
+          <option name="PATTERN" value="static2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpeakerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="access.SpeakerMain" />
+    <configuration name="MathArrayUtilsMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="static2.ex.MathArrayUtilsMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="access.*" />
+          <option name="PATTERN" value="static2.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShoppingCartMain" />
-        <item itemvalue="Application.CounterMain" />
-        <item itemvalue="Application.BankAccountMain" />
-        <item itemvalue="Application.AccessInnerMain" />
-        <item itemvalue="Application.SpeakerMain" />
+        <item itemvalue="Application.MathArrayUtilsMain" />
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.DecoDataMain" />
+        <item itemvalue="Application.DecoMain2" />
+        <item itemvalue="Application.DecoMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +165,7 @@
       <workItem from="1720519448882" duration="7723000" />
       <workItem from="1720703536348" duration="2089000" />
       <workItem from="1721028277478" duration="27063000" />
-      <workItem from="1721391823804" duration="491000" />
+      <workItem from="1721391823804" duration="7589000" />
     </task>
     <task id="LOCAL-00001" summary="README">
       <created>1720530424671</created>
@@ -239,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721142648477</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="접근 제어자">
+      <created>1721392338685</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721392338685</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -267,7 +279,8 @@
     <MESSAGE value="객체지향 프로그래밍" />
     <MESSAGE value="생성자" />
     <MESSAGE value="패키지" />
-    <option name="LAST_COMMIT_MESSAGE" value="패키지" />
+    <MESSAGE value="접근 제어자" />
+    <option name="LAST_COMMIT_MESSAGE" value="접근 제어자" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -303,6 +316,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/static2/DecoDataMain.java</url>
+          <line>5</line>
+          <properties class="static2.DecoDataMain" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
