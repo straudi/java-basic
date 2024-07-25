@@ -4,40 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb356ce9-6452-40ad-9080-c641faf21288" name="Changes" comment="final">
-      <change afterPath="$PROJECT_DIR$/src/extends1/access/ExtendsAccessMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/access/parents/Parents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex/ShopMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex1/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex2/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/ex3/HydrogenCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/ElectricCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/GasCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/overriding/HydrogenCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super1/Super1Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/ClassC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/extends1/super2/Super2Main.java" afterDir="false" />
+    <list default="true" id="cb356ce9-6452-40ad-9080-c641faf21288" name="Changes" comment="상속">
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastringMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastringMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastringMain5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/CastringMain6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/basic/PolyMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/AnimalSoundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Caw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex1/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/AnimalPolyMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/ex2/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/OverridingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poly/overriding/Parent.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/access/child/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/access/child/Child.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/extends1/access/parents/Parents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/extends1/access/parent/Parent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +53,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "F:/공부/JAVA/study/java-basic/src/extends1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/공부/JAVA/study/java-basic/src/extends1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\공부\JAVA\study\java-basic\src\extends1" />
@@ -85,20 +76,20 @@
       <recent name="F:\공부\JAVA\study\java-basic\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="poly.ex2" />
+      <recent name="poly.ex1" />
+      <recent name="poly.basic" />
       <recent name="final1" />
       <recent name="static2" />
-      <recent name="static1" />
-      <recent name="memory" />
-      <recent name="construct" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShopMain">
-    <configuration name="ExtendsAccessMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.access.ExtendsAccessMain" />
+  <component name="RunManager" selected="Application.AnimalPolyMain1">
+    <configuration name="AnimalPolyMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex2.AnimalPolyMain1" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.access.*" />
+          <option name="PATTERN" value="poly.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShopMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.ex.ShopMain" />
+    <configuration name="AnimalSoundMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.ex1.AnimalSoundMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.ex.*" />
+          <option name="PATTERN" value="poly.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super1Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.super1.Super1Main" />
+    <configuration name="CastringMain5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastringMain5" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.super1.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Super2Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.super2.Super2Main" />
+    <configuration name="CastringMain6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.basic.CastringMain6" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.super2.*" />
+          <option name="PATTERN" value="poly.basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="extends1.overriding.CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="extends1.overriding.CarMain" />
+    <configuration name="OverridingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="poly.overriding.OverridingMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="extends1.overriding.*" />
+          <option name="PATTERN" value="poly.overriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShopMain" />
-        <item itemvalue="Application.Super2Main" />
-        <item itemvalue="Application.Super1Main" />
-        <item itemvalue="Application.ExtendsAccessMain" />
-        <item itemvalue="Application.extends1.overriding.CarMain" />
+        <item itemvalue="Application.AnimalPolyMain1" />
+        <item itemvalue="Application.AnimalSoundMain" />
+        <item itemvalue="Application.OverridingMain" />
+        <item itemvalue="Application.CastringMain6" />
+        <item itemvalue="Application.CastringMain5" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +171,9 @@
       <workItem from="1720519448882" duration="7723000" />
       <workItem from="1720703536348" duration="2089000" />
       <workItem from="1721028277478" duration="27063000" />
-      <workItem from="1721391823804" duration="19927000" />
+      <workItem from="1721391823804" duration="20526000" />
+      <workItem from="1721573534523" duration="87000" />
+      <workItem from="1721574589898" duration="7176000" />
     </task>
     <task id="LOCAL-00001" summary="README">
       <created>1720530424671</created>
@@ -280,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721411341716</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="상속">
+      <created>1721487411737</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721487411737</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +311,8 @@
     <MESSAGE value="접근 제어자" />
     <MESSAGE value="자바 메모리 구조와 static" />
     <MESSAGE value="final" />
-    <option name="LAST_COMMIT_MESSAGE" value="final" />
+    <MESSAGE value="상속" />
+    <option name="LAST_COMMIT_MESSAGE" value="상속" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

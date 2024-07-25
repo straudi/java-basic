@@ -1,8 +1,8 @@
 package extends1.access.child;
 
-import extends1.access.parents.Parents;
+import extends1.access.parent.Parent;
 
-public class Child extends Parents {
+public class Child extends Parent {
     public void call(){
         publicValue = 1;
         protectedValue = 1; // 상속관계 혹은 같은 패키지

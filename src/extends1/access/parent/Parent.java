@@ -1,6 +1,6 @@
-package extends1.access.parents;
+package extends1.access.parent;
 
-public class Parents {
+public class Parent {
     public int publicValue;
     protected int protectedValue;
     int defaultValue;
